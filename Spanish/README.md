@@ -1,4 +1,4 @@
-# Wordbomb Dictionary
+# Diccionario de Wordbomb
 Este repositorio contiene un diccionario de palabras en español diseñado específicamente para el juego Wordbomb.
 
 📌 Características:
@@ -11,5 +11,5 @@ Este repositorio contiene un diccionario de palabras en español diseñado espec
 
 ❌ No contiene nombres propios.
 
-Este diccionario busca equilibrar diversidad y frecuencia de uso, asegurando que las palabras permitidas sean ampliamente reconocidas.
+Este diccionario busca equilibrar diversidad y frecuencia de uso, asegurando que las palabras permitidas sean reconocidas.
 Juega en https://wordbomb.io
