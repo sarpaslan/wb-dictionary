@@ -9,7 +9,7 @@ Este repositorio contiene un diccionario de palabras en español diseñado espec
 
 ✅ Filtrado para mejorar la jugabilidad y garantizar una experiencia justa.
 
-❌ No contiene nombres propios
+❌ No contiene nombres propios.
 
 Este diccionario busca equilibrar diversidad y frecuencia de uso, asegurando que las palabras permitidas sean reconocidas.
 Juega en https://wordbomb.io
